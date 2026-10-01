@@ -1,0 +1,90 @@
+
+die.png
+size: 308,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_W1
+  rotate: false
+  xy: 146, 70
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+effect_W2
+  rotate: false
+  xy: 222, 218
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+effect_W3
+  rotate: true
+  xy: 2, 2
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+effect_W4
+  rotate: false
+  xy: 2, 87
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+effect_W5
+  rotate: false
+  xy: 132, 138
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+effect_W6
+  rotate: false
+  xy: 132, 215
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+effect_W7
+  rotate: true
+  xy: 223, 29
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+effect_W8
+  rotate: true
+  xy: 79, 2
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+effect_bj
+  rotate: false
+  xy: 2, 165
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect_gu
+  rotate: false
+  xy: 94, 87
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+effect_tou1
+  rotate: true
+  xy: 223, 120
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+effect_tou2
+  rotate: false
+  xy: 146, 22
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1

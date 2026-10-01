@@ -1,0 +1,27 @@
+
+jiasu.png
+size: 391,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: false
+  xy: 1, 73
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+GX
+  rotate: false
+  xy: 42, 71
+  size: 348, 36
+  orig: 348, 36
+  offset: 0, 0
+  index: -1
+GX2
+  rotate: false
+  xy: 1, 1
+  size: 378, 68
+  orig: 378, 68
+  offset: 0, 0
+  index: -1

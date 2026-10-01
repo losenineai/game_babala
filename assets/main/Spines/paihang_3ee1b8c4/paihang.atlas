@@ -1,0 +1,48 @@
+
+paihang.png
+size: 681,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 185
+  size: 354, 372
+  orig: 354, 372
+  offset: 0, 0
+  index: -1
+hei
+  rotate: false
+  xy: 187, 79
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+hz
+  rotate: false
+  xy: 1, 1
+  size: 184, 182
+  orig: 184, 182
+  offset: 0, 0
+  index: -1
+jt
+  rotate: false
+  xy: 187, 91
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 530, 102
+  size: 449, 150
+  orig: 449, 150
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 357, 102
+  size: 455, 171
+  orig: 455, 171
+  offset: 0, 0
+  index: -1

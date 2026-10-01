@@ -1,0 +1,10 @@
+{
+  "ver": "1.1.0",
+  "uuid": "6fcca454-d9d2-4091-a21b-a8df103568c7",
+  "importer": "javascript",
+  "isPlugin": false,
+  "loadPluginInWeb": true,
+  "loadPluginInNative": true,
+  "loadPluginInEditor": false,
+  "subMetas": {}
+}

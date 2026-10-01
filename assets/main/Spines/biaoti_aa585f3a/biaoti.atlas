@@ -1,0 +1,104 @@
+
+biaoti.png
+size: 162,1242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+js
+  rotate: false
+  xy: 81, 91
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+jt1
+  rotate: false
+  xy: 78, 4
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+pw
+  rotate: false
+  xy: 1, 46
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 80, 46
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+tb1
+  rotate: true
+  xy: 1, 136
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+tb2
+  rotate: false
+  xy: 1, 947
+  size: 160, 142
+  orig: 160, 142
+  offset: 0, 0
+  index: -1
+tb2_h
+  rotate: false
+  xy: 1, 803
+  size: 160, 142
+  orig: 160, 142
+  offset: 0, 0
+  index: -1
+tb3
+  rotate: false
+  xy: 1, 1091
+  size: 155, 150
+  orig: 155, 150
+  offset: 0, 0
+  index: -1
+tb4
+  rotate: true
+  xy: 1, 667
+  size: 134, 158
+  orig: 134, 158
+  offset: 0, 0
+  index: -1
+tb5
+  rotate: true
+  xy: 1, 524
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+tb_d1
+  rotate: true
+  xy: 1, 398
+  size: 124, 160
+  orig: 124, 160
+  offset: 0, 0
+  index: -1
+tb_d2
+  rotate: true
+  xy: 1, 272
+  size: 124, 160
+  orig: 124, 160
+  offset: 0, 0
+  index: -1
+tz
+  rotate: false
+  xy: 1, 91
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+zd
+  rotate: false
+  xy: 1, 1
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1

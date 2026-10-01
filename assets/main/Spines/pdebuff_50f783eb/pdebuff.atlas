@@ -1,0 +1,62 @@
+
+pdebuff.png
+size: 1109,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rs1
+  rotate: true
+  xy: 980, 2
+  size: 219, 127
+  orig: 219, 127
+  offset: 0, 0
+  index: -1
+rs2
+  rotate: true
+  xy: 842, 2
+  size: 219, 136
+  orig: 219, 136
+  offset: 0, 0
+  index: -1
+rs3
+  rotate: true
+  xy: 2, 2
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+rs4
+  rotate: true
+  xy: 142, 2
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+rs5
+  rotate: true
+  xy: 282, 2
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+rs6
+  rotate: true
+  xy: 422, 2
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+rs7
+  rotate: true
+  xy: 562, 2
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+rs8
+  rotate: true
+  xy: 702, 2
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+{
+  "start-scene": "ebc3cccf-aca1-4e5a-ac94-ce66b3171ecf",
+  "group-list": [
+    "default",
+    "enemy",
+    "hero",
+    "enemyzd",
+    "herozd",
+    "screen"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "last-module-event-record-time": 1790690444453
+}

@@ -1,0 +1,167 @@
+
+e8.png
+size: 273,590
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ghyc_zd
+  rotate: false
+  xy: 1, 527
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+gq1
+  rotate: false
+  xy: 1, 1
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+guanghua_arm_R
+  rotate: false
+  xy: 124, 570
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+guanghua_qz
+  rotate: true
+  xy: 86, 431
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+mubei_Q1
+  rotate: true
+  xy: 174, 430
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+mubei_Q2
+  rotate: false
+  xy: 92, 353
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+mubei_Q3
+  rotate: false
+  xy: 178, 353
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+mubei_Q4
+  rotate: false
+  xy: 92, 275
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+mubei_Q5
+  rotate: false
+  xy: 1, 285
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+mubei_Q6
+  rotate: false
+  xy: 184, 273
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+mubei_Q7
+  rotate: false
+  xy: 1, 362
+  size: 89, 67
+  orig: 89, 67
+  offset: 0, 0
+  index: -1
+mubei_Q8
+  rotate: false
+  xy: 1, 438
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+xg1_arm_L1
+  rotate: false
+  xy: 95, 571
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+xg1_arm_L2
+  rotate: false
+  xy: 151, 569
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+xg1_arm_R1
+  rotate: false
+  xy: 19, 573
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+xg1_body1
+  rotate: true
+  xy: 224, 552
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+xg1_eye1
+  rotate: false
+  xy: 177, 557
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+xg1_eye2
+  rotate: false
+  xy: 1, 582
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+xg1_eye3
+  rotate: false
+  xy: 10, 582
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+xg1_head1
+  rotate: false
+  xy: 61, 505
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+xg1_leg_L1
+  rotate: true
+  xy: 46, 572
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+xg1_leg_R1
+  rotate: true
+  xy: 72, 572
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 133, 498
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

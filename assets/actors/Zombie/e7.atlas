@@ -1,0 +1,83 @@
+
+e7.png
+size: 202,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hd1
+  rotate: false
+  xy: 1, 139
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+px_arm_L1
+  rotate: true
+  xy: 1, 9
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+px_arm_R1
+  rotate: true
+  xy: 109, 9
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+px_body1
+  rotate: false
+  xy: 123, 47
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+px_body2
+  rotate: false
+  xy: 58, 41
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+px_eye1
+  rotate: true
+  xy: 152, 23
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+px_eye2
+  rotate: true
+  xy: 152, 1
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+px_head1
+  rotate: false
+  xy: 1, 49
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+px_leg_L1
+  rotate: true
+  xy: 48, 17
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+px_leg_R1
+  rotate: true
+  xy: 77, 17
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1, 85
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

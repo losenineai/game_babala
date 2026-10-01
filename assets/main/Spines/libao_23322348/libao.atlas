@@ -1,0 +1,41 @@
+
+libao.png
+size: 417,196
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BX
+  rotate: false
+  xy: 318, 0
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+BX2
+  rotate: true
+  xy: 318, 96
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+BX_G
+  rotate: true
+  xy: 206, 82
+  size: 114, 110
+  orig: 114, 110
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 0, 0
+  size: 204, 196
+  orig: 204, 196
+  offset: 0, 0
+  index: -1
+lq
+  rotate: false
+  xy: 206, 3
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1

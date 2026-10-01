@@ -1,0 +1,97 @@
+
+debuff.png
+size: 290,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JSBP_bing_guang
+  rotate: true
+  xy: 195, 383
+  size: 98, 89
+  orig: 98, 89
+  offset: 0, 0
+  index: -1
+JSBP_jiansu1
+  rotate: false
+  xy: 2, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+JSBP_jiansu2
+  rotate: false
+  xy: 155, 116
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+JT2
+  rotate: false
+  xy: 263, 804
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+bing_d
+  rotate: false
+  xy: 2, 357
+  size: 191, 124
+  orig: 191, 124
+  offset: 0, 0
+  index: -1
+bing_sui
+  rotate: true
+  xy: 2, 227
+  size: 128, 151
+  orig: 128, 151
+  offset: 0, 0
+  index: -1
+bingdong1
+  rotate: true
+  xy: 2, 835
+  size: 199, 267
+  orig: 199, 267
+  offset: 0, 0
+  index: -1
+bingdong1.1
+  rotate: true
+  xy: 2, 643
+  size: 190, 259
+  orig: 190, 259
+  offset: 0, 0
+  index: -1
+bingdong_g
+  rotate: true
+  xy: 2, 483
+  size: 158, 217
+  orig: 158, 217
+  offset: 0, 0
+  index: -1
+duwu1
+  rotate: false
+  xy: 120, 10
+  size: 143, 104
+  orig: 143, 104
+  offset: 0, 0
+  index: -1
+duwu2
+  rotate: false
+  xy: 155, 241
+  size: 125, 114
+  orig: 125, 114
+  offset: 0, 0
+  index: -1
+duwu_paopao
+  rotate: false
+  xy: 221, 599
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+linghun
+  rotate: true
+  xy: 2, 126
+  size: 99, 145
+  orig: 99, 145
+  offset: 0, 0
+  index: -1

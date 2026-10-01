@@ -1,0 +1,69 @@
+
+jiesuan1.png
+size: 397,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G1
+  rotate: false
+  xy: 285, 250
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+G2
+  rotate: false
+  xy: 337, 383
+  size: 44, 186
+  orig: 44, 186
+  offset: 0, 0
+  index: -1
+hengfu
+  rotate: true
+  xy: 2, 25
+  size: 544, 97
+  orig: 544, 97
+  offset: 0, 0
+  index: -1
+jiangbei
+  rotate: true
+  xy: 265, 124
+  size: 124, 130
+  orig: 124, 130
+  offset: 0, 0
+  index: -1
+lz
+  rotate: false
+  xy: 101, 100
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+xiangrikui
+  rotate: false
+  xy: 101, 352
+  size: 234, 217
+  orig: 234, 217
+  offset: 0, 0
+  index: -1
+yz1
+  rotate: false
+  xy: 101, 2
+  size: 142, 96
+  orig: 142, 96
+  offset: 0, 0
+  index: -1
+yz2
+  rotate: false
+  xy: 245, 5
+  size: 142, 93
+  orig: 142, 93
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 101, 264
+  size: 182, 86
+  orig: 182, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+hero6.png
+size: 298,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddz_arm_L_1
+  rotate: false
+  xy: 199, 16
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+ddz_arm_L_2
+  rotate: false
+  xy: 231, 16
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+ddz_arm_R_1
+  rotate: true
+  xy: 123, 41
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+ddz_arm_R_2
+  rotate: false
+  xy: 260, 54
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+ddz_body_1
+  rotate: false
+  xy: 1, 171
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+ddz_body_2
+  rotate: false
+  xy: 1, 72
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+ddz_body_3
+  rotate: false
+  xy: 80, 171
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+ddz_body_4
+  rotate: false
+  xy: 80, 72
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+ddz_body_5
+  rotate: false
+  xy: 159, 171
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+ddz_eye_1
+  rotate: true
+  xy: 220, 152
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+ddz_head2_2
+  rotate: false
+  xy: 263, 23
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ddz_head2_3
+  rotate: false
+  xy: 162, 16
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+ddz_head2_4
+  rotate: false
+  xy: 220, 51
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ddz_head2_5
+  rotate: true
+  xy: 123, 1
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+ddz_leg_L_1
+  rotate: true
+  xy: 281, 125
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+ddz_leg_R_1
+  rotate: false
+  xy: 1, 1
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+ddz_wq_1
+  rotate: false
+  xy: 159, 111
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+ddz_wq_2
+  rotate: false
+  xy: 238, 210
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+ddz_wq_3
+  rotate: false
+  xy: 159, 51
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+ddz_wq_4
+  rotate: false
+  xy: 238, 150
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+ddz_wq_5
+  rotate: false
+  xy: 220, 90
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1, 18
+  size: 120, 52
+  orig: 120, 52
+  offset: 0, 0
+  index: -1

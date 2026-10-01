@@ -1,0 +1,55 @@
+
+load.png
+size: 338,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duihuakuang
+  rotate: true
+  xy: 157, 70
+  size: 134, 174
+  orig: 134, 174
+  offset: 0, 0
+  index: -1
+kpbl_arm_L1
+  rotate: true
+  xy: 215, 4
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+kpbl_arm_R1
+  rotate: false
+  xy: 157, 2
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+kpbl_body1
+  rotate: false
+  xy: 2, 17
+  size: 153, 187
+  orig: 153, 187
+  offset: 0, 0
+  index: -1
+kpbl_eye
+  rotate: false
+  xy: 274, 4
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+kpbl_leg_L1
+  rotate: true
+  xy: 274, 25
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+kpbl_leg_R1
+  rotate: true
+  xy: 307, 26
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
