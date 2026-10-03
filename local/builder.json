@@ -3,7 +3,7 @@
   "actualPlatform": "web-mobile",
   "template": "link",
   "buildPath": "./build",
-  "debug": false,
+  "debug": true,
   "sourceMaps": false,
   "embedWebDebugger": false,
   "previewWidth": "1280",

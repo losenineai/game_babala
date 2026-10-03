@@ -42,7 +42,7 @@ cc.Class({
             return (t.subNode.active = !1);
         });
     },
-    start: function () {},
+    start: function () { },
     initBy: function (t, e, i, n) {
         this.scene = t;
         this.bulletsRoot = e;
@@ -75,6 +75,15 @@ cc.Class({
     setAnimation: function (t, e, i, n) {
         if (void 0 === n) {
             n = null;
+        }
+        if (!this.spine) {
+            cc.error(
+                "Enemy.setAnimation: spine is null, node=" +
+                    (this.node ? this.node.name : "?") +
+                    ", ani=" +
+                    this.aniName(e)
+            );
+            return null;
         }
         var o = this.spine.setAnimation(t, this.aniName(e), i);
         if (n) {
